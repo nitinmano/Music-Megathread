@@ -955,7 +955,10 @@ that would never normally get surfaced with their algorithms
 
 - [lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library
 
-- [Alspotron](https://github.com/organization/alspotron) - Shows the egg lyrics of the track, playing on Spotify / YouTube Music 
+- [Alspotron](https://github.com/organization/alspotron) - Shows the egg lyrics of the track, playing on Spotify / YouTube Music
+
+- [better-lyrics](https://github.com/boidushya/better-lyrics) - Browser extension to show lyrics for the song playing in YouTube Music.
+
 
 ### ▷ Music Production
 
